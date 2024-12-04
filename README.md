@@ -56,7 +56,7 @@ Let’s build something amazing together! 💻✨
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinesh-niure&theme=radical)](https://git.io/streak-stats)
 
-[![Dinesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinesh-niure&bg_color=1a1b27&color=38bdae&line=43d0f0&point=f6f6f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dinesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinesh-niure&bg_color=1a1b27&color=38bdae&line=43d0f0&point=f6f6f6&area=true&hide_border=true)]()
 
 ---
 
