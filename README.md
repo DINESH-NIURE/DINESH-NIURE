@@ -52,9 +52,9 @@ Let’s build something amazing together! 💻✨
 
 <h2>📈 My GitHub Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-niure&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-niure&layout=compact&theme=radical)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinesh-niure&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinesh-niure&theme=radical)]()
 
 [![Dinesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinesh-niure&bg_color=1a1b27&color=38bdae&line=43d0f0&point=f6f6f6&area=true&hide_border=true)]()
 
