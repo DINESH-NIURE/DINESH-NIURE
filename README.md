@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-🎯 **Senior Full-Stack Developer** | 🚀 2+ Years of Building Performant, Scalable Web Apps  
+🎯 **Senior Full-Stack Developer** | 🚀 5+ Years of Building Performant, Scalable Web Apps  
 🎨 Focused on **clean UI/UX**, **robust architecture**, and **modern best practices**.
 
 - 🌱 Deep-diving into **Advanced React Patterns** & **Microservices Architecture**
-- 🧰 Tech Enthusiast: **Next.js**, **React**, **NestJS**, **Node.js**, **TypeScript**
+- 🧰 Tech Enthusiast: **Next.js**, **React**, **NestJS**, **Node.js**, **TypeScript**, **golang**
 - 🧑‍🎨 UI Lover: Tailwind CSS, Shadcn UI, Figma, Component-Driven Design
 - 💡 I value **clean code**, **modular systems**, and **performance optimization**
 
